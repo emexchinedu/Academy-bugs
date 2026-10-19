@@ -22,4 +22,4 @@ A bug hunt on academybugs.com, a practice online shop with 25 hidden bugs.
 | 09 | The sign in button was below the sign up button | Low |
 | 10 | email address and password are not in the align position | Low |
 ## What I learned
-- I learned to repeat a bug before reporting it
+- I learned to repeat bugs before reporting them, document clear steps and provide enough details to help identify and fix the issues
